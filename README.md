@@ -1,8 +1,8 @@
 
 #EXTM3U
-#EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 002[/B][/COLOR]
+#EXTINF:-1,tvg-logo="https://i.imgur.com/M0aRl2a.jpg"[B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 002[/B][/COLOR]
 http://canais.servidor
-#EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -Canais off (44)991045772[/B][/COLOR]
+#EXTINF:-1,tvg-logo="https://i.imgur.com/M0aRl2a.jpg" [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -Canais off (44)991045772[/B][/COLOR]
 http://canais.servidor
 
 
