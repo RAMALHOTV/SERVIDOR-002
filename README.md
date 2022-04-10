@@ -1,9 +1,24 @@
 
 #EXTM3U
-#EXTINF:-1,tvg-logo="https://i.imgur.com/M0aRl2a.jpg"[B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 002[/B][/COLOR]
-http://canais.servidor
-#EXTINF:-1,tvg-logo="https://i.imgur.com/M0aRl2a.jpg" [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -Canais off (44)991045772[/B][/COLOR]
-http://canais.servidor
+ 
+#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
+ 
+################################################################################# Informações da Lista
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",(44)991045772
+https://www.youtube.com/channel/UCojJlq
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",RamalhoTV
+ https://www.youtube.com/channel/UCojJlqr-L
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado-10/04/2022
+https://www.youtube.com/channel/UCojJlqr-L
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV 
+https://www.youtube.com/channel/UCojJlqr-
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos! 
+https://www.youtube.com/channel/UCojJlqr-L
 
 
 #EXTINF:-1 tvg-id="a2e9fcaee0175ea43284b3fadfa8e649" tvg-name="A&E HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/canalAeELG.png" group-title="FILMES E SERIES",A&E HD
